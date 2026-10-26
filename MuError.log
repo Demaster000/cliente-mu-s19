@@ -1,0 +1,290 @@
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.20} (Kor) executed. (1.20.29.0)
+2026/10/24 20:46
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2904Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: ATI Technologies Inc.
+Render		: Radeon RX 570 Series
+OpenGL version	: 4.6.0 Compatibility Profile Context 26.5.2.260413
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00010416
+-------------------------------------------------------------------------------------
+> Loading ok.
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 55502
+> Login Request.
+> Try to Login "demaster"
+> Request Character list
+> Character scene init success.
+> Character selected <1> "EpiZ"
+> Main Scene init success. 2026/10/24 20:46
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x000076A9)->Data\World1\leaf01.jpg
+WM_CLOSE[Socket Closed][Clear PacketQueue]
+Destroy
+
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.20} (Kor) executed. (1.20.29.0)
+2026/10/25 21:40
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2903Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: ATI Technologies Inc.
+Render		: Radeon RX 570 Series
+OpenGL version	: 4.6.0 Compatibility Profile Context 26.5.2.260413
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00010416
+-------------------------------------------------------------------------------------
+> Loading ok.
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 55502
+> Login Request.
+> Try to Login "demaster"
+> Request Character list
+> Character scene init success.
+> Character selected <1> "EpiZ"
+> Main Scene init success. 2026/10/25 21:42
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x000076A9)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.tga(0x000076A9)->Data\World3\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.jpg(0x000076A9)->Data\World4\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World4\leaf01.tga(0x000076A9)->Data\World4\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf02.jpg(0x000076AA)->Data\World4\leaf02.jpg
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+WM_CLOSE[Socket Closed][Clear PacketQueue]
+Destroy
+
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.20} (Kor) executed. (1.20.29.0)
+2026/10/25 21:53
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2904Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: ATI Technologies Inc.
+Render		: Radeon RX 570 Series
+OpenGL version	: 4.6.0 Compatibility Profile Context 26.5.2.260413
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00010416
+-------------------------------------------------------------------------------------
+> Loading ok.
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+서버와의 접속종료.
+FD_CLOSE -> subcode: 0 
+2026/10/25 21:54
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy
+
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.20} (Kor) executed. (1.20.29.0)
+2026/10/25 21:54
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2903Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: ATI Technologies Inc.
+Render		: Radeon RX 570 Series
+OpenGL version	: 4.6.0 Compatibility Profile Context 26.5.2.260413
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00010416
+-------------------------------------------------------------------------------------
+> Loading ok.
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 55501
+> Login Request.
+> Try to Login "demaster"
+> Request Character list
+> Character scene init success.
+> Character selected <1> "EpiZ"
+> Main Scene init success. 2026/10/25 21:55
+인덱스를 공유하거나 Delete없이 사용하였음Data\World4\leaf01.tga(0x000076A9)->Data\World4\leaf01.jpg
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 55501
+> Login Request.
+> Try to Login "demaster"
+> Request Character list
+> Character scene init success.
+> Character selected <1> "EpiZ"
+> Main Scene init success. 2026/10/25 21:58
+인덱스를 공유하거나 Delete없이 사용하였음Data\World4\leaf01.tga(0x000076A9)->Data\World4\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.tga(0x000076A9)->Data\World3\leaf01.jpg
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.jpg(0x000076A9)->Data\World95\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf02.jpg(0x000076AA)->Data\World95\leaf02.jpg
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+WM_CLOSE[Socket Closed][Clear PacketQueue]
+Destroy
+
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.20} (Kor) executed. (1.20.29.0)
+2026/10/25 22:07
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2903Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Screen size = 800 x 600.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: ATI Technologies Inc.
+Render		: Radeon RX 570 Series
+OpenGL version	: 4.6.0 Compatibility Profile Context 26.5.2.260413
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00010416
+-------------------------------------------------------------------------------------
+> Loading ok.
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.15.9, port = 55501
+> Login Request.
+> Try to Login "demaster"
+> Request Character list
+> Character scene init success.
+> Character selected <1> "EpiZ"
+> Main Scene init success. 2026/10/25 22:08
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.tga(0x000076A9)->Data\World3\leaf01.jpg
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.jpg(0x000076A9)->Data\World95\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf02.jpg(0x000076AA)->Data\World95\leaf02.jpg
+[Connect to Server] ip address = 192.168.15.9, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+서버와의 접속종료.
+FD_CLOSE -> subcode: 0 
+2026/10/25 22:12
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy

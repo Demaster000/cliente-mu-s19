@@ -1,0 +1,6 @@
+1@Kris@Quantidade@255@UN@1@0@142@145@1@144@673@518@0@7@138@680
+2@Joia da Alma@Quantidade@1@UN@1@1@142@145@1@144@673@518@7182@7@138@680
+2@Joia da Alma@Quantidade@1@UN@1@2@142@145@1@144@673@518@7182@7@138@680
+2@Joia da Alma@Quantidade@1@UN@1@3@142@145@1@144@673@518@7182@7@138@680
+3@Lâmina Absoluta Abençoada do Arcanjo@Duração@3600@Seg.@1@0@142@145@1@144@673@518@114@10@140@386
+4@Lança Mantícora@Quantidade@100@UN@1@0@142@145@1@144@673@518@1567@7@138@680
